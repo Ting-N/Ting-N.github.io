@@ -1,3 +1,6 @@
+# 关于
+暂时写不出什么东西。。。
+
 # Special thanks to:
 
 - [Hexo Shoka theme](https://github.com/amehime/hexo-theme-shoka) for providing design inspiration
