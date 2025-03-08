@@ -33,7 +33,7 @@ const YukinaConfig: Configuration = {
 
   username: "Ting-N",
   sign: "~connect 心的连接~",
-  avatarUrl: "https://github.com/Ting-N/Ting-N.github.io/blob/master/src/images/avatar_pinkluo.jpg",
+  avatarUrl: "https://raw.githubusercontent.com/Ting-N/Ting-N.github.io/master/src/images/avatar_pinkluo.jpg",
   socialLinks: [
     {
       icon: "line-md:github-loop",
@@ -50,11 +50,11 @@ const YukinaConfig: Configuration = {
   maxFooterTagChip: 24,
 
   banners: [
-  "src/images/banner_xiachong.jpg",
-  "src/images/banner_ling.jpg",
-  "src/images/banner_xinyinhe.jpg",
-  "src/images/banner_zheguang.jpg",    
-  "src/images/banner_qinxinyixia.jpg",
+  "https://raw.githubusercontent.com/Ting-N/Ting-N.github.io/master/src/images/banner_xiachong.jpg",
+  "https://raw.githubusercontent.com/Ting-N/Ting-N.github.io/master/src/images/banner_ling.jpg",
+  "https://raw.githubusercontent.com/Ting-N/Ting-N.github.io/master/src/images/banner_xinyinhe.jpg",
+  "https://raw.githubusercontent.com/Ting-N/Ting-N.github.io/master/src/images/banner_zheguang.jpg",    
+  "https://raw.githubusercontent.com/Ting-N/Ting-N.github.io/master/src/images/banner_qinxinyixia.jpg",
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
