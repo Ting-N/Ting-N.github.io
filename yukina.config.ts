@@ -33,7 +33,7 @@ const YukinaConfig: Configuration = {
 
   username: "Ting-N",
   sign: "~connect 心的连接~",
-  avatarUrl: "src/images/avatar_pinkluo.jpg",
+  avatarUrl: "https://github.com/Ting-N/Ting-N.github.io/blob/master/src/images/avatar_pinkluo.jpg",
   socialLinks: [
     {
       icon: "line-md:github-loop",
