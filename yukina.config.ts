@@ -3,7 +3,7 @@ import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
   title: "Chobits.",
-  subTitle: "Catch you catch me~",
+  subTitle: "Catch you catch me",
   brandTitle: "Chobits.",
 
   description: "Ting-N Blog",
